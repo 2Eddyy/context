@@ -1,0 +1,21 @@
+[
+    {    "id":1,
+        "name":"edwin",
+        "age":24,
+        "Address":"maiyanur,snakarapuram,Kallakurichi,605801",
+        "qty":0
+    },
+    {
+        "id":2,
+        "name":"nirmal",
+        "age":24,
+        "Address":"maiyanur,snakarapuram,Kallakurichi,605801",
+        "qty":0
+    },
+    {    "id":3,
+        "name":"soundar",
+        "age":24,
+        "Address":"maiyanur,snakarapuram,Kallakurichi,605801",
+        "qty":0
+    }
+]

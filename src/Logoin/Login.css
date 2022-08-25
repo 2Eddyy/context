@@ -1,0 +1,19 @@
+.login{
+    width: 500px;
+    height: 500px;
+    background-color: aqua;
+    border-radius: 20px;
+    position: relative;
+    top: 17%;
+    left: 30%;
+    text-align: center;
+    border: 2px solid black;
+ }
+ input{
+     position: relative;
+     top: 200px;
+ }
+ span{
+     position: relative;
+     top: 200px; 
+ }
